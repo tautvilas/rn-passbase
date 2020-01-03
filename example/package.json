@@ -12,7 +12,8 @@
   "dependencies": {
     "@passbase/react-native-passbase": "^0.0.14",
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "react-native-navigation": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
